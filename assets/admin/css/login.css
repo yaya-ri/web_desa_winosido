@@ -1,0 +1,16 @@
+body{
+    background: url('../gambar/login1.jpeg') fixed;
+    /*background-size: 100% 100%;*/
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
